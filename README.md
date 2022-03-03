@@ -115,8 +115,8 @@ This project is protected by `GNU General Public Licence v3.0` license.
 add your own heroku button
   
   example :
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your repository link here)
-  
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLENDERMANTHEGOD/Pinky.git
+ 
   change it into your repo link
 ```
   
